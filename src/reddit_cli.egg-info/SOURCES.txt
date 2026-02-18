@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/reddit_cli/__init__.py
+src/reddit_cli/__main__.py
+src/reddit_cli/cli.py
+src/reddit_cli/const.py
+src/reddit_cli/transform.py
+src/reddit_cli.egg-info/PKG-INFO
+src/reddit_cli.egg-info/SOURCES.txt
+src/reddit_cli.egg-info/dependency_links.txt
+src/reddit_cli.egg-info/entry_points.txt
+src/reddit_cli.egg-info/requires.txt
+src/reddit_cli.egg-info/top_level.txt
+tests/test_transform.py

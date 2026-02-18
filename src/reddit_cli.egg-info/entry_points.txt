@@ -1,0 +1,2 @@
+[console_scripts]
+reddit = reddit_cli.cli:main
