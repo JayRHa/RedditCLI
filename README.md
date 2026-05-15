@@ -1,18 +1,3 @@
-<!-- repo-standard:start -->
-# Reddit CLI
-
-Python CLI tool for browsing and interacting with Reddit from the terminal.
-
-| Area | Stack | Visibility |
-| --- | --- | --- |
-| CLI Tooling | Python | Public |
-
-**Repository:** `JayRHa/reddit-cli`  
-**Topics:** `reddit`, `cli`, `python`
-<!-- repo-standard:end -->
-
----
-
 <div align="center">
   <h1>Reddit CLI</h1>
   <p><strong>Browse subreddits, search posts and check community stats from your terminal</strong></p>
