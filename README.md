@@ -1,3 +1,48 @@
+<!-- unified-readme:start -->
+    <div align="center">
+
+    # Reddit CLI
+
+    **Python CLI tool for browsing and interacting with Reddit from the terminal.**
+
+    Build. Automate. Share.
+
+    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/RedditCLI?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/RedditCLI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/JayRHa/RedditCLI?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/RedditCLI/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/JayRHa/RedditCLI?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/RedditCLI/issues)
+[![Contributors](https://img.shields.io/github/contributors/JayRHa/RedditCLI?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/RedditCLI/graphs/contributors)
+
+    ---
+
+    `CLI Tool` | `Python` | `Public` | `Maintained`
+
+    </div>
+
+    ## What is this?
+
+    This repository contains python CLI tool for browsing and interacting with Reddit from the terminal.
+
+    > Browse the documentation below for setup notes, usage details, and project-specific context.
+
+    ---
+
+    ## Quick Start
+
+    1. Review the project documentation below.
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/JayRHa/RedditCLI.git
+   ```
+
+3. Follow the setup, deployment, or usage notes in the preserved documentation section.
+
+    ---
+    <!-- unified-readme:end -->
+
+
+## Existing Documentation
+
 <div align="center">
   <h1>Reddit CLI</h1>
   <p><strong>Browse subreddits, search posts and check community stats from your terminal</strong></p>
