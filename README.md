@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides python CLI tool for browsing and interacting with Reddit from the terminal.
+Python CLI tool for browsing and interacting with Reddit from the terminal.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
@@ -75,7 +75,7 @@ export REDDIT_CLIENT_SECRET="<YOUR_CLIENT_SECRET>"
 reddit hot --subreddit python --limit 5
 reddit top --subreddit programming --time week
 reddit search --query "async await" --subreddit python
-reddit sub-info --subreddit homeassistant
+reddit sub-info --subreddit HomeAssistant
 ```
 
 ## Why It Feels Great To Use
@@ -125,7 +125,7 @@ reddit hot --subreddit python
 
 ```bash
 reddit hot --subreddit python --limit 10
-reddit hot -s homeassistant -l 5 --json
+reddit hot -s HomeAssistant -l 5 --json
 ```
 
 ### Top posts with time filter
@@ -153,7 +153,7 @@ reddit search -q "docker compose" -s selfhosted -l 15
 ### Subreddit info
 
 ```bash
-reddit sub-info --subreddit homeassistant
+reddit sub-info --subreddit HomeAssistant
 reddit sub-info -s python --json
 ```
 
@@ -180,7 +180,7 @@ reddit hot -s python -l 50 --json | jq '[.posts[] | select(.num_comments > 100)]
 Subreddit subscriber count for monitoring:
 
 ```bash
-reddit sub-info -s homeassistant --json | jq '.subreddit.subscribers'
+reddit sub-info -s HomeAssistant --json | jq '.subreddit.subscribers'
 ```
 
 ## Exit Codes
